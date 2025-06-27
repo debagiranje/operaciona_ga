@@ -1,0 +1,20 @@
+Instance: CL_1_25_9.vbp
+Runs: 5
+Average bins: 7.0
+Average time: 19.15s
+
+Run 1: bins=7, time=18.40s
+Solution: 0 0 0 0 1 1 0 1 1 2 3 3 4 4 4 3 5 5 5 6 6 6 2 2 3
+
+Run 2: bins=7, time=19.67s
+Solution: 0 1 0 0 2 2 0 1 2 3 3 3 4 4 4 3 5 1 1 6 6 6 5 5 0
+
+Run 3: bins=7, time=18.78s
+Solution: 0 0 0 0 1 1 0 1 1 2 3 3 4 4 4 3 5 5 5 6 6 6 2 2 3
+
+Run 4: bins=7, time=19.51s
+Solution: 0 0 0 0 1 2 0 2 2 3 3 3 4 4 4 3 5 5 2 6 6 6 5 1 1
+
+Run 5: bins=7, time=19.43s
+Solution: 0 0 0 0 1 2 0 2 2 3 3 3 4 5 4 3 6 6 6 5 5 2 1 1 4
+
